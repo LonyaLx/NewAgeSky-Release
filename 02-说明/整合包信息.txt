@@ -11,7 +11,7 @@ Java 版本：Java 21
 内置光影：Complementary Reimagined
 安装包：天工创世-1.0.1-CurseForge.zip
 安装包大小：约 69.37 MB
-SHA-256：16BE722D9DDED1C6AECC219B93C37FFA03AD1AEBA8464809D13B5904C82682E5
+SHA-256：F8CE01BBA0EA44388076F21A30BAA07B3F9A41172B9A51E699960E69C135C0AA
 发布渠道：BBSMC、MCMOD、CurseForge
 
 【简介】
@@ -21,7 +21,7 @@ SHA-256：16BE722D9DDED1C6AECC219B93C37FFA03AD1AEBA8464809D13B5904C82682E5
 1. 使用 PCL2、HMCL 等支持 CurseForge 整合包导入的启动器。
 2. 不要解压安装包，直接选择“导入/安装整合包”。
 3. Java 选择 21，允许安装 NeoForge 21.1.249。
-4. 首次启动需要联网下载 166 个远程模组。
+4. 首次启动需要联网下载 164 个远程模组。
 
 【推荐标签】
 空岛、科技、任务、自动化、硬核、AE2、Mekanism、ProjectE、Avaritia、NeoForge、1.21.1、简体中文
