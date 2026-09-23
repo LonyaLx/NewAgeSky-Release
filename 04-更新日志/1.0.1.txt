@@ -5,3 +5,4 @@
 - 任务书同步 PCL 测试实例，更新为 23 章、695 个任务。
 - 英文名称与内部命名空间统一为 sky-craft-creation。
 - AE2 Lightning Tech 与 Thunderbolt 在 CurseForge 下架，改为随包提供。
+- 游戏窗口标题增加版本号 v1.0.1。
