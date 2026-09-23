@@ -5,7 +5,8 @@
 《天工创世》是一款面向 Minecraft 1.21.1 的 NeoForge 空岛科技整合包。包含 217 个模组、23 个任务章节和 695 个 FTB 任务，围绕资源生产方式升级、ProjectE 严格 EMC、制造业自动化与创造物品终局展开。
 
 【整合包信息】
-整合包名称：天工创世（NewAgeSky）
+整合包名称：天工创世
+英文名称：sky-craft-creation
 版本号：1.0.1
 制作人：凉寻Lonya
 Minecraft：1.21.1
@@ -17,7 +18,7 @@ Java：21
 内置光影：Complementary Reimagined
 安装包：天工创世-1.0.1-CurseForge.zip
 安装包大小：约 69.37 MB
-SHA-256：603EF5AA4B59F15A9F38EAEE3F8C6CF7B0A51059982714CDAC8CA195B89D3DD7
+SHA-256：16BE722D9DDED1C6AECC219B93C37FFA03AD1AEBA8464809D13B5904C82682E5
 发布渠道：BBSMC、MCMOD、CurseForge
 
 【整合包介绍】

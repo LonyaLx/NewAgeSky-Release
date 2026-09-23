@@ -3,3 +3,4 @@
 - 新增 Create Ultimine 1.21.1-neoforge-1.3.3。
 - 模组总数更新为 217。
 - 任务书同步 PCL 测试实例，更新为 23 章、695 个任务。
+- 英文名称与内部命名空间统一为 sky-craft-creation。
