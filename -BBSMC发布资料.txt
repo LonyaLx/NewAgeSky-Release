@@ -1,214 +1,41 @@
 【帖子标题】
 《天工创世》1.0.1｜1.21.1 NeoForge 空岛科技整合包｜217 模组 / 695 任务 / ProjectE 困难模式
 
-【一句话简介】
-以“资源生产方式升级”为主线的空岛科技整合包：从空岛起步，经历筛矿、农业、蜜蜂、工厂化、ME 网络与 EMC，最终挑战 ProjectE 困难模式、Avaritia 终局和 ME 创造存储元件。
-
 【短简介】
-《天工创世》是一款面向 Minecraft 1.21.1 的 NeoForge 空岛科技整合包。整合包包含 217 个模组、23 个任务章节和 695 个 FTB 任务，对空岛材料来源、ProjectE EMC、终局配方与自动化流程进行了大量定制。你将围绕资源生产方式升级建立生产线，从早期手筛逐步发展到农业、蜜蜂、工厂、ME 网络和 EMC，最终完成创造物品阶段链与 ME 创造存储元件。
+《天工创世》是一款面向 Minecraft 1.21.1 的 NeoForge 空岛科技整合包。包含 217 个模组、23 个任务章节和 695 个 FTB 任务，围绕资源生产方式升级、ProjectE 严格 EMC、制造业自动化与创造物品终局展开。
 
 【整合包信息】
 整合包名称：天工创世（NewAgeSky）
-整合包版本：1.0.1
+版本号：1.0.1
 制作人：凉寻Lonya
-Minecraft 版本：1.21.1
+Minecraft：1.21.1
 模组加载器：NeoForge 21.1.249
-Java 版本：Java 21
-模组数量：217 个
-任务数量：23 章、695 个任务、2 个奖励表
+Java：21
+模组数量：217
+任务数量：23 章、695 个任务
 语言支持：简体中文
 内置光影：Complementary Reimagined
-发布渠道：BBSMC、MCMOD、CurseForge
-推荐启动器：PCL2、HMCL 等支持 CurseForge 整合包导入的启动器
 安装包：天工创世-1.0.1-CurseForge.zip
 安装包大小：约 69.37 MB
-SHA-256：54304774DE0839B3B486D9AA71E83D4BC168DFE711730BF766CF5353FD85AAC6
+SHA-256：603EF5AA4B59F15A9F38EAEE3F8C6CF7B0A51059982714CDAC8CA195B89D3DD7
+发布渠道：BBSMC、MCMOD、CurseForge
 
 【整合包介绍】
-《天工创世》不是单纯把大量科技模组堆在一起，而是围绕“资源从哪里来、如何量产、怎样升级生产方式”重新设计了空岛发展路线。
-
-前期，你需要从最基础的资源获取开始，逐步搭建筛矿、种植和生物资源体系；中期，随着 Create、Mekanism、EnderIO、Industrial Foregoing、Powah、沉浸工程、气动工艺等模组接入，资源生产会从人工操作转向工厂化与自动化；后期，AE2、AdvancedAE、ExtendedAE、MEGA Cells 等存储与物流模组将成为核心，最终进入 ProjectE、Re-Avaritia 与 PackagedAvaritia 的终局阶段。
-
-整合包内置完整的 FTB Quests 任务线。23 个章节、695 个任务会持续给出明确的发展目标，同时保留科技整合包自由规划和自动化改造的空间。主线章节注重具体物品与阶段目标，专题章节则覆盖 AE2、EnderIO、Just Dire Things、Neo Eco AE、能源系统等内容。
-
-ProjectE 在本包中采用严格 EMC 模式：只保留基础矿物和基础加工物的 EMC，关闭配方自动推导，机器产物与无限资源不提供 EMC。贤者之石、交换桌、平板、暗物质、红物质、收集器、继电器与凝聚器等核心物品均改为更高难度的 tier 4 配方，避免 EMC 过早破坏整体进度。
-
-终局阶段接入 Re-Avaritia 与 PackagedAvaritia。十件创造物品会组成有序阶段链，从创造能源立方逐步推进到龙之研究、气动工艺与 JDTe，最终通过创造收敛核心合成 ME 创造存储元件。
+《天工创世》以“资源生产方式升级”为主线。前期从手筛、作物和蜜蜂获取资源，中期接入 Create、Mekanism、EnderIO、工业先锋、Powah、沉浸工程和气动工艺，后期发展 ME 网络、ProjectE 与 Avaritia 终局。十件创造物品组成连续阶段链，最终目标为 ME 创造存储元件。
 
 【核心特色】
-1. 完整的空岛科技发展路线
-从基础筛矿和资源获取开始，经过农业、蜜蜂、工业机器与自动化物流，最终进入 ME 网络、EMC 和创造物品终局。
+1. 217 个模组、23 章、695 个任务，提供完整空岛科技发展路线。
+2. ProjectE 严格 EMC，仅保留基础资源 EMC，关闭配方自动推导。
+3. ProjectE 核心物品与创造链采用 Extreme Package Crafter 执行的 tier 4 配方。
+4. 补全空岛材料、原版锻造模板与农业种子来源。
+5. 加入 Create Ultimine，支持 Create 工具与 FTB Ultimine 联动。
+6. 内置中文支持、任务汉化和 Complementary Reimagined 光影。
 
-2. 23 章、695 个任务
-任务书覆盖主线发展与多个大型模组专题，主线与专题结构已按当前测试版本重做。
+【推荐标签】
+空岛、科技、任务、自动化、硬核、AE2、Mekanism、ProjectE、Avaritia、NeoForge、1.21.1、简体中文
 
-3. ProjectE 严格 EMC
-关闭配方自动推导，限制基础资源以外的 EMC 获取，机器和无限资源不会提供 EMC。ProjectE 核心内容需要搭建高阶自动化产线才能推进。
-
-4. 定制化终局链
-ProjectE 核心物品与创造物品采用 Extreme Package Crafter 执行的 tier 4 配方。十件创造物品组成连续阶段链，最终目标为 ME 创造存储元件。
-
-5. Create Ultimine 联动
-Create 工具支持 FTB Ultimine 批量破坏，简化大型机械与建筑搭建。
-
-6. 空岛材料来源补全
-已补充 Neo Eco、AE2 压印模板、门瑞欧、Draconium、坚固蜂笼、终极锭、锇、11 种碎矿、蜜脾、农业种子等材料来源。原版 17 种锻造模板均已添加不依赖堡垒和遗迹的有序配方。
-
-7. 大量配方与数据包调整
-包含 ProjectE 严格 EMC 数据包、11 个终局自定义物品及大量 KubeJS 配方调整。发布前测试结果为 KubeJS 0 错误、0 失败配方，本次新增 JEI 配方 0 broken。
-
-8. 中文与性能优化
-内置中文资源包与 I18n 更新模组，并加入 Sodium、Iris、ModernFix、FerriteCore、ImmediatelyFast、EntityCulling、BadOptimizations 等性能优化模组。默认提供 Complementary Reimagined 光影，可根据电脑性能自行关闭。
-
-【主要模组方向】
-科技与自动化：Create、Mekanism、EnderIO、Industrial Foregoing、Powah、Immersive Engineering、PneumaticCraft、Just Dire Things、Integrated Dynamics。
-
-存储与物流：AE2、AdvancedAE、ExtendedAE、MEGA Cells、Functional Storage、Sophisticated Storage、LaserIO、Pipez、SFM、Modular Routers。
-
-资源生产：Ex Deorum、Ex Compressum、Mystical Agriculture、Productive Bees、Botany Pots、Bonsai Trees。
-
-终局内容：ProjectE、Project Expansion、Re-Avaritia、PackagedAvaritia、Extreme Crafting、Draconic Evolution。
-
-探索与强化：Apotheosis、Apothic Enchanting、Curios、Natures Aura、Hostile Neural Networks。
-
-【推荐游玩流程】
-第一阶段：空岛起步
-建立最基础的资源获取体系，完成初期筛矿、种植与任务目标，逐步摆脱完全依赖手动获取资源的阶段。
-
-第二阶段：农业与生物资源
-使用 Mystical Agriculture、Productive Bees、Botany Pots、Bonsai Trees 等模组建立可再生资源来源。
-
-第三阶段：工业化生产
-接入 Create、Mekanism、EnderIO、Powah 等科技模组，把零散机器发展为连续生产线。
-
-第四阶段：ME 网络与自动化
-搭建 AE2 存储、合成与物流系统，使用 AdvancedAE、ExtendedAE、MEGA Cells、LaserIO、SFM 等模组提高自动化程度。
-
-第五阶段：EMC 与高阶资源
-在基础资源体系稳定后进入 ProjectE。由于本包关闭自动推导并限制 EMC，建议先完成自动化产线，再推进 ProjectE 核心物品。
-
-第六阶段：Avaritia 与创造终局
-搭建 Package Encoder → Recipe Holder → Packager → Extreme Package Crafter 产线，按照 Chain 1—10 的顺序完成创造物品阶段链。
-
-最终目标：合成 ME 创造存储元件。
-
-【安装教程】
-1. 不要解压整合包。
-2. 打开 PCL2 或 HMCL。
-3. 选择“安装整合包”或“导入整合包”。
-4. 选择文件：天工创世-1.0.1-CurseForge.zip。
-5. Java 选择 Java 21。
-6. 启动器会自动安装 NeoForge 21.1.249。
-7. 首次安装需要联网，启动器会下载 166 个远程模组；另有 51 个模组已包含在整合包内。
-8. 安装完成后，建议为游戏分配 8 GB 或更多内存。
-9. 首次启动请耐心等待模组加载与资源初始化。
-10. 进入游戏后，打开 FTB Quests 任务书开始游玩。
-
-【创建空岛世界】
-新建世界 → 点击“更多世界选项” → 世界类型选择 Skyblock（Skyblock Builder） → 创建世界。
-
-请不要直接使用普通世界类型，否则无法获得本整合包预期的空岛体验。
-
-【配置建议】
-最低配置建议：4 核处理器、16 GB 内存、独立显卡、固态硬盘。
-推荐配置：6 核或更高处理器、16 GB 以上内存、中端以上独立显卡、固态硬盘。
-游戏内存分配：建议 8 GB 或更多。
-Java：必须使用 Java 21。
-光影：电脑性能不足时，可在视频设置中关闭 Complementary Reimagined，或降低光影质量。
-
-【常见问题】
-Q1：整合包需要解压吗？
-不需要。请在启动器中选择“导入/安装整合包”，然后直接选择 ZIP 文件。
-
-Q2：启动时一直下载模组怎么办？
-首次安装需要下载 166 个远程模组，请保持网络稳定。如果下载中断，重新执行安装或更换启动器下载源。
-
-Q3：启动时报 Java 版本错误怎么办？
-请将启动器使用的 Java 设置为 Java 21，并确认启动器实际调用的就是这个 Java。
-
-Q4：为什么没有空岛？
-请新建世界，在“更多世界选项”中将世界类型设置为 Skyblock（Skyblock Builder）。
-
-Q5：JEI 里看到的配方比任务书进度简单，可以提前做吗？
-可以自由探索，但部分核心配方和材料来源经过重新设计。建议优先遵循任务书推进，避免因跳阶段导致材料链不完整。
-
-Q6：可以自行更新模组吗？
-不建议。整合包包含大量 KubeJS 配方、ProjectE EMC 与终局魔改，直接更新核心模组可能导致任务、配方或进度失效。
-
-Q7：可以用于服务器吗？
-本整合包主要面向单人游玩，未提供独立服务端整合包。用于服务器前请自行剔除纯客户端模组并测试兼容性。
-
-Q8：进入游戏后卡顿怎么办？
-先关闭光影，再检查内存分配。建议使用固态硬盘，并确保分配内存不少于 8 GB。
-
-【注意事项】
-1. 本整合包免费发布，请勿倒卖、二次售卖或用于未经授权的商业用途。
-2. 请保留制作人信息及原帖来源。
-3. 如需转载、搬运或二次发布，请先取得作者授权。
-4. 整合包内各模组、光影、资源包与汉化内容的版权归各自原作者所有。
-5. 如果任何模组作者对整合包分发方式有异议，请联系制作人处理。
-6. 因自行更新模组、修改配置、删除文件或使用不兼容 Java 导致的存档与启动问题，请先恢复原始安装包后再反馈。
-7. 反馈问题时，请附上游戏版本、启动器、Java 版本、崩溃日志和复现步骤。
-
-【文件校验】
-文件名：天工创世-1.0.1-CurseForge.zip
-文件大小：约 69.37 MB
-SHA-256：54304774DE0839B3B486D9AA71E83D4BC168DFE711730BF766CF5353FD85AAC6
-
-
-下载后可使用校验工具核对 SHA-256，确认文件完整且未被修改。
-
-【更新日志】
-v1.0.1 更新版
-- 发布《天工创世》1.0.1 更新版本。
-- Minecraft 1.21.1 + NeoForge 21.1.249 + Java 21。
-- 包含 217 个模组。
-- 包含 23 个任务章节、695 个任务和 2 个奖励表。
-- 完成 ProjectE 严格 EMC 与 tier 4 配方调整。
-- 接入 Re-Avaritia 与 PackagedAvaritia 终局内容。
-- 添加 10 件创造物品阶段链，最终目标为 ME 创造存储元件。
-- 补全空岛材料来源、原版锻造模板来源与多项自动化配方。
-- 内置中文资源包、任务汉化与 Complementary Reimagined 光影。
-- 发布前测试：KubeJS 0 错误、0 失败配方，新增 JEI 配方 0 broken。
-
-【下载】
-下载文件：天工创世-1.0.1-CurseForge.zip
-下载地址：【在这里粘贴 BBSMC 附件地址或网盘链接】
-提取码：【如有请填写】
-安装方式：不要在压缩软件中解压，直接导入 PCL2 / HMCL。
+【安装说明】
+不要解压安装包，直接导入 PCL2 或 HMCL；Java 选择 21，首次启动需联网下载远程模组。
 
 【制作信息】
-整合包制作、任务设计、配方调整与发布：凉寻Lonya
-版本：1.0.1
-Minecraft：1.21.1
-NeoForge：21.1.249
-Java：21
-
-感谢所有模组作者、汉化作者、光影作者与测试人员。没有这些优秀的开源与免费内容，就不会有《天工创世》的完成。
-
-如果你喜欢这个整合包，欢迎在帖子下方反馈任务、配方或平衡性问题。请尽量附上截图和日志，我会根据实际反馈进行后续维护。
-
-【BBSMC 表单填写建议】
-资源名称：天工创世（NewAgeSky）
-资源类型：整合包
-Minecraft 版本：1.21.1
-模组加载器：NeoForge
-Java 版本：Java 21
-语言：简体中文
-模组数量：217
-任务数量：695
-游戏模式：单人生存、空岛、科技、任务、自动化
-推荐标签：空岛、科技、任务、硬核、AE2、Mekanism、ProjectE、无尽贪婪、NeoForge、1.21.1、汉化
-原创状态：如果你是制作人或获得作者正式授权，选择“原创/授权发布”；否则请按平台规则选择“转载”并附授权证明。
-
-【BBSMC 发帖配图建议】
-建议上传顺序：
-1. 整合包标题封面：突出《天工创世》和“1.21.1 / NeoForge / 空岛科技”。
-2. 任务书总览：展示 23 章任务界面。
-3. 前期空岛基地：展示筛矿、农业和初期机器。
-4. 中后期自动化工厂：展示 Mekanism、Create、EnderIO 或 Powah 产线。
-5. AE2 存储与合成系统：展示 ME 网络、ExtendedAE 或 MEGA Cells。
-6. ProjectE 与 Avaritia 终局：展示 tier 4 合成和创造阶段链。
-7. 安装说明图：展示“导入整合包”和 Java 21 设置位置。
-8. 世界创建说明图：展示 Skyblock（Skyblock Builder）选项。
-9. 模组列表与校验信息：可放帖子末尾或折叠区域。
+整合包制作、任务设计与发布：凉寻Lonya
