@@ -1,0 +1,13 @@
+﻿# Integrated-package build artifacts
+01-整合包/*.zip
+01-整合包/*.mrpack
+
+# Browser profiles and generated caches
+封面/.edge-profile*/
+*.tmp
+*.bak
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
