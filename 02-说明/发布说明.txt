@@ -1,8 +1,8 @@
-《天工创世》1.0.0 发布说明
+《天工创世》1.0.1 发布说明
 制作人：凉寻Lonya
 
 文件：
-天工创世-1.0.0-CurseForge.zip
+天工创世-1.0.1-CurseForge.zip
 - CurseForge 标准格式，适配 PCL2、HMCL 等支持 CurseForge 整合包导入的启动器。
 - 共 217 个模组，其中 166 个由启动器下载、51 个随包提供。
 - 包含 23 章、695 个任务，已加入 Create Ultimine 1.21.1-neoforge-1.3.3。
