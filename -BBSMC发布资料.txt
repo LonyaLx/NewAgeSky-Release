@@ -18,13 +18,11 @@ Java 版本：Java 21
 任务数量：29 章、945 个任务、2 个奖励表
 语言支持：简体中文
 内置光影：Complementary Reimagined
+发布渠道：BBSMC、MCMOD、CurseForge
 推荐启动器：PCL2、HMCL 等支持 CurseForge 整合包导入的启动器
-CurseForge 安装包：天工创世-1.0.0-CurseForge.zip
-CurseForge 安装包大小：约 69.29 MB
-CurseForge SHA-256：7AA4CB6BDA167CE9F529444ED3EA1AF6EE63ED5D73AF15C9E0A555E4FC898A2D
-Modrinth 安装包：天工创世-1.0.0-Modrinth.mrpack
-Modrinth 安装包大小：约 67.26 MB
-Modrinth SHA-256：B8AE02295F5E0BED616F4EE2FE5FD619B8C0797D6DD5C30C40FF787BEFB537A2
+安装包：天工创世-1.0.0-CurseForge.zip
+安装包大小：约 69.29 MB
+SHA-256：7AA4CB6BDA167CE9F529444ED3EA1AF6EE63ED5D73AF15C9E0A555E4FC898A2D
 
 【整合包介绍】
 《天工创世》不是单纯把大量科技模组堆在一起，而是围绕“资源从哪里来、如何量产、怎样升级生产方式”重新设计了空岛发展路线。
@@ -154,9 +152,6 @@ Q8：进入游戏后卡顿怎么办？
 文件大小：约 69.29 MB
 SHA-256：7AA4CB6BDA167CE9F529444ED3EA1AF6EE63ED5D73AF15C9E0A555E4FC898A2D
 
-文件名：天工创世-1.0.0-Modrinth.mrpack
-文件大小：约 67.26 MB
-SHA-256：B8AE02295F5E0BED616F4EE2FE5FD619B8C0797D6DD5C30C40FF787BEFB537A2
 
 下载后可使用校验工具核对 SHA-256，确认文件完整且未被修改。
 
@@ -174,9 +169,7 @@ v1.0.0 首发版
 - 发布前测试：KubeJS 0 错误、0 失败配方，新增 JEI 配方 0 broken。
 
 【下载】
-下载文件（任选其一）：
-1. 天工创世-1.0.0-CurseForge.zip
-2. 天工创世-1.0.0-Modrinth.mrpack
+下载文件：天工创世-1.0.0-CurseForge.zip
 下载地址：【在这里粘贴 BBSMC 附件地址或网盘链接】
 提取码：【如有请填写】
 安装方式：不要在压缩软件中解压，直接导入 PCL2 / HMCL。
