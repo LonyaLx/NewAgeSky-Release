@@ -1,28 +1,29 @@
 【上传填写信息】
 整合包名称：天工创世
 英文名称：sky-craft-creation
-版本号：1.0.1
+版本号：1.1.0
 Minecraft 版本：1.21.1
 模组加载器：NeoForge 21.1.249
 Java 版本：Java 21
-模组数量：217
-任务数量：23 章、695 个任务
+模组数量：218
+任务数量：23 章、7 个章节组、857 个任务
 语言支持：简体中文
 内置光影：Complementary Reimagined
-游戏窗口标题：《天工创世》v1.0.1 --凉寻Lonya
-安装包：天工创世-1.0.1-CurseForge.zip
-安装包大小：约 78.31 MB
-SHA-256：99D4C414B699019120AFBF9A1DCB0271AEF9DD969798A42C7271FB5135E161D4
+游戏窗口标题：《天工创世》v1.1.0 --凉寻Lonya
+安装包：天工创世-1.1.0-CurseForge.zip
+安装包大小：约 78.47 MB
+SHA-256：B10A8CC18B9BC38FC470A23E7082CED6B4F55F497A039A9894525A70735A1BCC
 发布渠道：BBSMC、MCMOD、CurseForge
+封面：天工创世封面_空岛版.jpg
 
 【简介】
-以资源生产方式升级为主线的 1.21.1 NeoForge 空岛科技整合包。从筛矿、农业、蜜蜂与工厂化起步，逐步进入 ME 网络、ProjectE 严格 EMC 与 Avaritia 终局，最终合成 ME 创造存储元件。
+以资源生产方式升级为主线的 1.21.1 NeoForge 空岛科技整合包。从筛矿、农业、蜜蜂与工厂化起步，逐步进入 ME 网络、ProjectE 难度适中 EMC 与 Avaritia 终局，最终合成 ME 创造存储元件。
 
 【安装】
 1. 使用 PCL2、HMCL 等支持 CurseForge 整合包导入的启动器。
 2. 不要解压安装包，直接选择“导入/安装整合包”。
 3. Java 选择 21，允许安装 NeoForge 21.1.249。
-4. 首次启动需要联网下载 164 个远程模组。
+4. 首次启动需要联网下载 165 个远程模组。
 
 【推荐标签】
 空岛、科技、任务、自动化、硬核、AE2、Mekanism、ProjectE、Avaritia、NeoForge、1.21.1、简体中文

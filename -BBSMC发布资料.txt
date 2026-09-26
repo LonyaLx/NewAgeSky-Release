@@ -1,33 +1,34 @@
 【帖子标题】
-《天工创世》1.0.1｜1.21.1 NeoForge 空岛科技整合包｜217 模组 / 695 任务 / ProjectE 困难模式
+《天工创世》1.1.0｜1.21.1 NeoForge 空岛科技整合包｜218 模组 / 857 任务 / 难度适中平衡
 
 【短简介】
-《天工创世》是一款面向 Minecraft 1.21.1 的 NeoForge 空岛科技整合包。包含 217 个模组、23 个任务章节和 695 个 FTB 任务，围绕资源生产方式升级、ProjectE 严格 EMC、制造业自动化与创造物品终局展开。
+《天工创世》是一款面向 Minecraft 1.21.1 的 NeoForge 空岛科技整合包。包含 218 个模组、23 个任务章节、7 个章节组和 857 个 FTB 任务，围绕资源生产方式升级、ProjectE 严格 EMC、制造业自动化与创造物品终局展开。
 
 【整合包信息】
 整合包名称：天工创世
 英文名称：sky-craft-creation
-版本号：1.0.1
+版本号：1.1.0
 制作人：凉寻Lonya
 Minecraft：1.21.1
 模组加载器：NeoForge 21.1.249
 Java：21
-模组数量：217
-任务数量：23 章、695 个任务
+模组数量：218
+任务数量：23 章、7 个章节组、857 个任务
 语言支持：简体中文
 内置光影：Complementary Reimagined
-安装包：天工创世-1.0.1-CurseForge.zip
-安装包大小：约 78.31 MB
-SHA-256：99D4C414B699019120AFBF9A1DCB0271AEF9DD969798A42C7271FB5135E161D4
+安装包：天工创世-1.1.0-CurseForge.zip
+安装包大小：约 78.47 MB
+SHA-256：B10A8CC18B9BC38FC470A23E7082CED6B4F55F497A039A9894525A70735A1BCC
 发布渠道：BBSMC、MCMOD、CurseForge
+封面：天工创世封面_空岛版.jpg
 
 【整合包介绍】
 《天工创世》以“资源生产方式升级”为主线。前期从手筛、作物和蜜蜂获取资源，中期接入 Create、Mekanism、EnderIO、工业先锋、Powah、沉浸工程和气动工艺，后期发展 ME 网络、ProjectE 与 Avaritia 终局。十件创造物品组成连续阶段链，最终目标为 ME 创造存储元件。
 
 【核心特色】
-1. 217 个模组、23 章、695 个任务，提供完整空岛科技发展路线。
-2. ProjectE 严格 EMC，仅保留基础资源 EMC，关闭配方自动推导。
-3. ProjectE 核心物品与创造链采用 Extreme Package Crafter 执行的 tier 4 配方。
+1. 218 个模组、23 章、7 个章节组、857 个任务，提供完整空岛科技发展路线。
+2. ProjectE 难度适中 EMC，仅禁止创造物品与天工终局物通过 EMC 购买。
+3. ProjectE 核心链采用 Tier 3/4 分层配方，终局创造链独立收敛。
 4. 补全空岛材料、原版锻造模板与农业种子来源。
 5. 加入 Create Ultimine，支持 Create 工具与 FTB Ultimine 联动。
 6. 内置中文支持、任务汉化和 Complementary Reimagined 光影。
