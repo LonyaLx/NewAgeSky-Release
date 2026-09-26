@@ -11,8 +11,8 @@ Java 版本：Java 21
 内置光影：Complementary Reimagined
 游戏窗口标题：《天工创世》v1.1.0 --凉寻Lonya
 安装包：天工创世-1.1.0-CurseForge.zip
-安装包大小：约 78.47 MB
-SHA-256：B10A8CC18B9BC38FC470A23E7082CED6B4F55F497A039A9894525A70735A1BCC
+安装包大小：约 78.56 MB
+SHA-256：691C654607BD3BF3AD078A0C63590AD289AA254A774929808B157A6E28E2E1AD
 发布渠道：BBSMC、MCMOD、CurseForge
 封面：天工创世封面_空岛版.jpg
 
@@ -23,7 +23,7 @@ SHA-256：B10A8CC18B9BC38FC470A23E7082CED6B4F55F497A039A9894525A70735A1BCC
 1. 使用 PCL2、HMCL 等支持 CurseForge 整合包导入的启动器。
 2. 不要解压安装包，直接选择“导入/安装整合包”。
 3. Java 选择 21，允许安装 NeoForge 21.1.249。
-4. 首次启动需要联网下载 165 个远程模组。
+4. 首次启动需要联网下载 164 个远程模组。
 
 【推荐标签】
 空岛、科技、任务、自动化、硬核、AE2、Mekanism、ProjectE、Avaritia、NeoForge、1.21.1、简体中文
